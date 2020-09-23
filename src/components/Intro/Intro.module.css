@@ -1,0 +1,43 @@
+.Intro {
+  width: 100%;
+  height: calc(100vh - 150px);
+}
+
+.desc {
+  height: 40%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.desc h1 {
+  font-size: 4rem;
+}
+
+.desc h1 span {
+  font-size: 5rem;
+  color: #6985c4;
+}
+
+.desc p {
+  font-size: 2rem;
+  margin-top: 1rem;
+}
+
+.desc p span {
+  color: #001fff;
+}
+
+.svg {
+  height: 60%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.svg img {
+  height: 90%;
+}

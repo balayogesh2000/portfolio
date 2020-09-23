@@ -1,0 +1,25 @@
+.Navbar {
+  height: 100%;
+  width: 70%;
+}
+
+.Navbar ul {
+  list-style: none;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Navbar ul li a {
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #6985c4;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+.Navbar ul li a:hover {
+  color: #333;
+}

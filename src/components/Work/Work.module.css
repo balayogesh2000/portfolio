@@ -1,0 +1,13 @@
+.Work {
+  height: 1000px;
+  width: 100%;
+}
+
+.Work h2 {
+  font-size: 3rem;
+  height: 125px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #6985c4;
+}
